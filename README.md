@@ -4,7 +4,7 @@ Exercícios do Módulo 5 - Classes em Kotlin
 Curso EBAC: Desenvolvedor Android Kotlin
 
 ## Tecnologia utilizada:
-Kotlin
+- Kotlin
 
 ## Conteúdos abordados:
 No módulo 5 foram abordados os seguintes temas:
